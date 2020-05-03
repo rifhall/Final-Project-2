@@ -1,0 +1,56 @@
+Name: Riley Halloran
+Date: 5/2/20
+
+Project: Final Project – Corona Shoot Game
+Group's repository: https://github.com/yh17/Final-Project 
+
+
+
+What is something you learned by reviewing this group's project?
+
+I learned that art assets are huge when it comes to making a game presentable and enticing to play. I found myself not liking some parts of the combat, but the art assets were so good that I wanted to play a bit more each time 
+
+
+In what ways does this game reflect the theme?
+The game reflects the theme of Corona mostly in its art assets as the monsters are viruses and the setting is within some body or vein
+
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+The game over car and the sprite/art assets. I think making sure that they all look good an fit together is important so that you can have a coherent game
+
+ 
+
+What suggestions would you have for this group to improve the game?
+
+The thing that bothered me the absolute most was the fact that the player character was so slippery, so it was impossible to avoid enemy shots or to line up my own. Made it nigh unplayable and on top of that they had an over abundance of enemies that filled the screen making it hard to focus 
+
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+I think the most confusing thing is that movement is all if statements with no else for when the player is not inputting. It would be rather simple to make it so that it is an if elif else with the else just making the movement 0,0.
+ 
+
+Is it clear that every group member participated?
+While I can’t ay for certain it looks like the art, the programming, the themes, and the gameplay all come together to make a full experience so as long as different people did each part of the workload then it would appear so. 
+
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes it does
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+
+Yeah the read me is just that the game is a final project with the theme as corona so it doesn’t really have much to it. I would recommend adding what the game is and what each person contributed to making that game. 
+
+
+Pay a compliment to the group based on the quality of the game.
+
+The art I have already said was wonderful and I think if you added friction then the game would be wonderful. 
+
+
+
+How many of your points would you allocate to this project?
+
+
+3 points
